@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.info-word{
+  color: white;
+  background-color: indigo;
+  height: 100vh; 
+}
+
+
+
+.word-search{
+    width: 100%;
+    padding: 15px;
+    height: 100vh;
+    background-color: indigo;
+    
+   
+  
+}
+.phonetics{
+  margin-top: 50px;
+}
+
+.phonetics p{
+  font-size: 15px;
+  width: 150px;
+}
+
+
+
+
+
+
